@@ -9,7 +9,7 @@ export default {
   mounted () {
     document.querySelector('.body-loading').style.display = 'none'
     let list = this.$store.getters.getLanList
-    let lang = localStorage.getItem('MUSICLIFE_LANGUAGE')
+    let lang = localStorage.getItem('EXHIBITION_LANGUAGE')
     this.$store.dispatch ({
       type: 'setLanguage',
       language: lang

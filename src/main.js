@@ -4,28 +4,18 @@ import "@babel/polyfill"
 import App from './App.vue'
 import route from './router'
 import store from './store'
-import ElementUI from 'element-ui'
+import axios from './axios'
 import { i18n } from '@/i18n'
-import resource from 'vue-resource'
-import 'vue2-toast/lib/toast.css'
-import Toast from 'vue2-toast'
-import 'element-ui/lib/theme-chalk/index.css';
-
-Vue.use(Toast, {
-  defaultType: 'center',
-  duration: 1500,
-  wordWrap: false,
-  width: 'auto'
-})
 
 window.version = '0.0.1'
-
-import mixins from './mixins'
-
 Vue.config.productionTip = false
-Vue.use(ElementUI)
-Vue.use(resource)
-Vue.mixin(mixins)
+const instance = axios.create({
+  baseURL: '/',
+  timeout: 5000,
+  headers: {
+    'X-Custom-Header': 'foobar'
+  }
+})
 
 
 Date.prototype.format = function(fmt) {

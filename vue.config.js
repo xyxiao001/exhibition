@@ -1,13 +1,7 @@
-var vuxLoader = require('vux-loader')
 module.exports = {
   lintOnSave: false,
-  compiler: true,
+  runtimeCompiler: true,
   baseUrl: '/',
-  configureWebpack: config => {
-    vuxLoader.merge(config, {
-      plugins: ['vux-ui']
-    })
-  },
   devServer: {
      proxy: {
        '/api': {

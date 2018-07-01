@@ -8,8 +8,7 @@ Vue.use(Vuex)
 export default new Vuex.Store({
   state: {
     language: '',
-    lanList: langs,
-    path: '/'
+    lanList: langs
   },
   getters: {
     getLanguage (state) {

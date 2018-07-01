@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueI18n from 'vue-i18n'
 // 默认引入英文的包
+// import axios from 'axios'
 import en from './json/en'
 Vue.use(VueI18n)
 
@@ -21,7 +22,7 @@ function setI18nLanguage (lang) {
   // 修改语言同时做一些处理
   i18n.locale = lang
   // axios.defaults.headers.common['Accept-language'] = lang
-  localStorage.setItem('MUSICLIFE_LANGUAGE', lang)
+  localStorage.setItem('EXHIBITION_LANGUAGE', lang)
   if (lang != 'zh') {
     document.querySelector('#app').className = `language-${lang} language-not-zh`
   } else {
