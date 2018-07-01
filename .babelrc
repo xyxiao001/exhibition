@@ -1,0 +1,22 @@
+{
+  "presets": [
+    ["@babel/preset-env", {
+      "useBuiltIns": "entry",
+      "targets": {
+        "browsers": [
+          "> 5%",
+          "last 2 versions",
+          "IE 10",
+          "not ie <= 8"
+        ]
+      },
+      "modules": false,
+      "exclude": [
+        "transform-regenerator"
+      ]
+    }],
+    ["@babel/preset-stage-2", {
+      "useBuiltIns": true,
+      "decoratorsLegacy": true
+    }]
+  ]}

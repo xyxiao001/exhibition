@@ -1,0 +1,426 @@
+{
+	"pc": {
+		"home": {
+			"title": "MusicLife Musikleben",
+			"title2": "Subversives Blockchain-Musik-Öko-Transaktionssystem",
+			"des": "Durch die Kombination von Musiksoftware mit Musik hören Benutzer Musik in Musik, indem sie Musik hören",
+			"des2": "Ein Musiker oder eine Plattenfirma kann durch jedes Spiel direkt Einnahmen erzielen",
+			"btn": "Trete der Ökologie bei",
+			"coinName": "Hält MTC-Token-Benutzer",
+			"loadingText": "Laden..",
+			"user": {
+				"msg": "{register} Benutzer/ Halten Sie das Währungsranking {rank} ",
+				"btn": "Meine Homepage"
+			},
+			"blockList": [{
+				"title1": "Über uns",
+				"title2": "Was ist Musikleben?",
+				"des": "Music Life ist ein Blockchain-basiertes Musik-Öko-Transaktionssystem, das aus Software-SDK-System, Hardware-Embedded-System und Musikaustausch besteht. Wir haben das Preisbewertungssystem für den Zugang zu ökologischer Musik rekonstruiert und erlauben es den Nutzern, automatisch in Musik zu investieren, indem sie das Lied selbst anhören, so dass der Musiker und die Plattenfirma von jedem Spiel profitieren können. Music Life hat eine brandneue Preisökologie eingeführt, die automatisch die Preisgestaltung für die Wiedergabe und die Musikbewertung durch die tatsächliche Anzahl der Musikhörer berechnet und es den Nutzern ermöglicht, automatisch einen Teil der Musikanteile durch kostenpflichtige Musik zu erwerben. Zirkulation. Das Musikleben wird der bestehenden Musikindustrie sehr helfen und die Blockade von Urheberrechtsverletzungen und Piraterie überwinden, was wirklich jedem Aspekt der Musikindustrie zugute kommen wird. Music Life wird von der in Singapur ansässigen Non-Profit-Organisation MusicLife Foundation und der japanischen Firma Music Life Co., Ltd. betrieben.",
+				"btn1": "Lesen Sie das Whitepaper"
+			}, {
+				"title1": "Blockchain basiert",
+				"title2": "Aufbau eines Ökosystems basierend auf Blockchain und Ethereum",
+				"des": "Blockchain ist ein technischer Rahmen, der hauptsächlich zur Lösung von Problemen im Leben wie Vertrauen, Buchhaltung und Bestätigung von Rechten verwendet wird. Seit der Umwandlung von Musik in reine digitale Assets hat die Musik immer mit enormen Piraterie-Risiken für geistiges Eigentum und Schwierigkeiten bei der Ermittlung von Rechten zu kämpfen. Musiker, Plattenfirmen und Musik-Internet-Kanal-Anbieter sind daher schwierig, durch den Verkauf von Musik genug Einnahmen zu erzielen. Music Life hat eine brandneue Preiskalkulation eingeführt, die automatisch die Preisgestaltung für die Wiedergabe und die Musikbewertung durch die tatsächliche Anzahl der Zuhörer der Musik berechnet und es den Benutzern ermöglicht, automatisch einen Teil der virtuellen Dividendenanteile der Musik zu erwerben, indem Musik gegen Gebühr gespielt wird. Aufgrund der großen Anzahl von Musik und der großen Anzahl von Aktionären kann dieses Modell nicht durch das Juristen-Team in Verbindung mit dem Internet real erreicht werden, sondern durch die Blockchain kann es schnelle Transaktionen, Buchführung und Bestätigung von Rechten durchführen. Daher wählte das Musikleben Blockchain-Technologie, um das Ökosystem aufzubauen und landete schnell auf Ethereum.  Alle MITC-Besitzer sind Eigentümer von Musiclife und genießen eine Reihe von Rechten wie Einkommensverteilung, Wertsteigerung, Wahlüberwachung und spezielle Nutzung.\n           Durch MITC können alle Mitglieder der Gemeinschaft stark motiviert werden und jeder kann aktiv die Entwicklung der Plattform fördern.\n           Das Hauptnetzwerk des Musiklebens wird 2019 online sein. Vor der Hauptlinie wird das MITC auf den ERC20 Tokens von Ethereum basieren.",
+				"btn1": "Blockchain verstehen",
+				"btn2": "Lerne Astraleum"
+			}, {
+				"title1": "Musikpreis",
+				"title2": "Globales Originalverbriefungs-Musikbewertungssystem",
+				"des": "Im Musikleben hängt der Wert des Liedes nicht mehr vom Copyright-Preis ab, sondern basiert auf dem Verbriefungsbewertungssystem von Mitcoin (MITC) digitaler Währung. Wir berechnen den Listenpreis und den Marktwert des Songs basierend auf der tatsächlichen Hörlautstärke, der Hörtiefe und der Höraktivität jedes Songs. Dies wird die derzeitige Situation der Urheberrechtsbranche, wie undurchsichtige Preise, gefälschte Rundfunkdaten und Monopol des Urheberrechtsmarktes, durchbrechen. Lassen Sie jedes Lied schnell und zu einem vernünftigen Preis bewerten, bewerten und handeln."
+			}, {
+				"title1": "Hardware-Preise",
+				"title2": "Preisgestaltung für Musik mit Audiowiedergabehardware",
+				"des": "Da Musikpreise entscheidend sind, muss das Musikleben sicherstellen, dass die Wiedergabedaten glaubwürdig sind und nicht verfälscht werden können. Daher verwenden wir die Hardwarelösung für den eingebetteten Code, um die Anzahl der jeweils gespielten Musik zu berechnen. Jede Musikwiedergabehardware kann, solange sie sicherstellen kann, dass die Musik nur von dem echten Menschen gehört wird, auf das Musiklebenssystem zugreifen. Als Ergebnis können wir sicherstellen, dass Musikpreisträger für das Musikleben von Personen erfasst werden, die absolut wahr sind, und dass Musikleben auch für Nutzer zahlen wird, die Wiedergabedaten bereitstellen, dh Benutzer können die ökologische Hardware verwenden, um Lieder zu hören und entsprechende Ergebnisse zu erzielen. MitCoin. Die erste Hardware, um auf das Musikleben zuzugreifen, ist die MusicLens Lotto Musik Brille.",
+				"btn1": "Verstehen Musiclens",
+				"btn2": "Neuer Hardwarezugriff"
+			}, {
+				"title1": "Softwareverteilung",
+				"title2": "Verteilung über SDK Access Music Software",
+				"des": "Music Life wird ein integriertes SDK entwickeln, um auf Musikwiedergabesoftware zuzugreifen und im Musikleben verkaufte Musik über Musiksoftware zu verteilen. Jede Zahlung, die in der verbundenen Musiksoftware generiert wird, wird in Software unterteilt. Der Zugriff auf das Music Life SDK ist kostenlos, und auf jede genehmigte Musiksoftware kann zugegriffen werden und unser Vertriebspartner werden, um gemeinsam ein für beide Seiten vorteilhaftes Musik-Ökosystem aufzubauen. Die erste Musiksoftware, die auf das SDK für Musiklebensdauer zugreift, ist die Echo-APP.",
+				"echoDes1": "Echo ist eine Trend Musik App für junge Leute.",
+				"echoDes2": "Bietet innovative Musik- und Mediendienste mit 30 Millionen Nutzern weltweit.",
+				"btn1": "Herunterladen echo app",
+				"btn2": "Neuer Softwarezugriff"
+			}, {
+				"title1": "Musiker und Labelfirmen ",
+				"title2": "Offenes und kostenloses Musiklizenzsystem",
+				"des": "Jeder Musiker oder jede Plattenfirma kann Musik zum Musikleben für den Vertrieb lizenzieren. Zugang zum Musikleben bedeutet, ein neues Musikbewertungssystem zu wählen und das bestehende Urheberrechtssystem aufzugeben. Jede Musik, die zum Musikleben hinzugefügt wird, wird von der MusicLife Foundation handgeschrieben, um das Copyright auf die öffentliche Version der von der gemeinnützigen Stiftung betriebenen Musik zu übertragen und die Verbriefung basierend auf den Abhördaten des Benutzers im digitalen Mitcoin-Währungssystem neu zu bewerten. Dies bedeutet, dass jeder, der von der Stiftung autorisiert wurde, Ihre Arbeit kostenlos mit bestimmten Mitteln verbreiten und teilen kann. Basierend auf dem neuen Bewertungssystem, je mehr Daten Sie hören, desto höher ist die Bewertung Ihres Songs und Ihre Musik wird durch die Wiedergabe einen angemessenen Betrag an Einnahmen erzielen. Das ist das kommerzielle Modell, von dem die gesamte Musikindustrie seit der Digitalisierung der Musik geträumt hat, und im Blockchain-System gibt es erstmals Hoffnung auf Realisierung. Trete jetzt dem Musikleben bei und schließe dich der neuen Welle der Musikrevolution an!",
+				"btn1": "Musikalische Werke einreichen und auf das Musikleben zugreifen"
+			}, {
+				"title1": "Musikaustausch",
+				"title2": "Der weltweit erste AI-Preis Musikaustausch",
+				"des": "Im Musikleben kauft und verkauft man Musik nicht durch das Urheberrecht, sondern durch den Kauf und Verkauf von virtuellen Dividendenrechten der Musik, also durch \"Equity\". Benutzer können automatisch Musikaktien durch kostenpflichtige Musik kaufen, aber wenn eine große Anzahl von Musikaktien gehandelt werden muss, müssen sie über Live-Musikbörsen gekauft und verkauft werden. Der Musikaustausch des Musiklebens nimmt die ursprüngliche AI-Preisbestimmungsmethode an, und der Musikhandelspreis wird basierend auf der von AI berechneten Bewertung basierend auf den aktuellen Musikwiedergabedaten automatisch festgesetzt. Der Benutzer kann basierend auf dem aktuellen Preis kaufen oder verkaufen. Alle Käuferbedürfnisse werden an alle Aktionäre als Pending Orders und Push Notifications gesendet. Music Life entwickelt unterstützende Exchange-Websites und mobile Software zur Unterstützung des Musikhandels."
+			}],
+			"footer": {
+				"title": "Faires Musikwertsystem der nächsten Generation",
+				"copyright": "© 2018 MusicLife Foundation",
+				"contact": "Kontaktieren Sie uns",
+				"email": "info@musiclife.io"
+			},
+			"submitInfo": {
+				"title": "Geben Sie Ihre persönlichen Daten ein",
+				"name": {
+					"value": "Namen",
+					"placeholder": "Bitte geben Sie Ihren Namen ein",
+					"rule": "Bitte geben Sie Ihren Namen ein"
+				},
+				"email": {
+					"value": "E-Mail",
+					"placeholder": "Bitte geben Sie die E-Mail Adresse ein",
+					"rule": "Bitte geben Sie die E-Mail Adresse ein",
+					"rule2": "Bitte geben Sie die richtige E-Mail Adresse ein"
+				},
+				"need": {
+					"value": "Nachfrage",
+					"placeholder": "Bitte wähle deine Nachricht aus",
+					"rule": "Bitte wähle deine Bedürfnisse aus"
+				},
+				"content": {
+					"value": "Inhalt",
+					"placeholder": "Bitte geben Sie den Inhalt der Nachricht ein Die empfangene Nachricht antwortet innerhalb von 24 Stunden",
+					"rule": "Bitte geben Sie den Inhalt der Nachricht ein"
+				},
+				"btn": {
+					"value": "Informationen einreichen"
+				},
+				"titles": [{
+					"key": 1,
+					"value": "Geschäftliche Zusammenarbeit"
+				}, {
+					"key": 2,
+					"value": "Problemberatung"
+				}, {
+					"key": 3,
+					"value": "Andere"
+				}],
+				"alert": {
+					"success": "Erfolgreich eingereicht",
+					"error": "Fehler beim Senden"
+				},
+				"success": {
+					"title": "Informationen erfolgreich eingereicht, danke für Ihre Unterstützung!",
+					"des": "Nachdem Ihre persönlichen Informationen erfolgreich übermittelt wurden, werden wir Ihnen innerhalb von 24 Stunden per E-Mail antworten",
+					"des2": "Sie können uns auch auf Instagram, Echo, Facebook oder Twitter folgen, um die neuesten Nachrichten zu erhalten"
+				}
+			},
+			"pdf": "https://qn-qn-kibey-static-cdn.app-echo.com/MusicLife-Blockchain Music Trading and Sharing Platform Power by Ethereum_V1.1.pdf"
+		},
+		"develope": {
+			"year": "2018",
+			"title": "MusicLife",
+			"titleDes": "Entwicklungsplanungs-Roadmap",
+			"line": [{
+				"name": "2018 Q1~Q2",
+				"startTime": "2018年1月1日",
+				"endTime": "2018年6月30日",
+				"childs": [{
+					"name": "Januar",
+					"height": "100px",
+					"childs": [{
+						"name": "Inspiriert",
+						"endTime": "2018年1月1日"
+					}, {
+						"name": "Design Framework und Wirtschaftsmodell",
+						"endTime": "2018年1月10日"
+					}]
+				}, {
+					"name": "Februar",
+					"height": "200px",
+					"childs": [{
+						"name": "Verhandlungen mit den ersten Hardware- und Softwarepartnern",
+						"endTime": "2018年2月1日"
+					}, {
+						"name": "Schließe das erste Whitepaper ab",
+						"endTime": "2018年2月10日"
+					}, {
+						"name": "Starten Sie Technologieforschung und -entwicklung",
+						"endTime": "2018年2月20日"
+					}]
+				}, {
+					"name": "März",
+					"height": "100px",
+					"childs": [{
+						"name": "Foundation-Registrierung abgeschlossen",
+						"endTime": "2018年3月1日"
+					}, {
+						"name": "Offizielle Online-Leitung",
+						"endTime": "2018年3月10日"
+					}]
+				}, {
+					"name": "April",
+					"height": "200px",
+					"childs": [{
+						"name": "Verbessere das Wirtschaftsmodell",
+						"endTime": "2018年4月1日"
+					}, {
+						"name": "Beschlossen, als öffentliche Kette zu entwerfen",
+						"endTime": "2018年4月10日"
+					}]
+				}, {
+					"name": "Mai",
+					"height": "100px",
+					"childs": [{
+						"name": "Erzeuge MITC-Token",
+						"endTime": "2018年5月1日"
+					}, {
+						"name": "Verfassen der zweiten Ausgabe des Whitepapers",
+						"endTime": "2018年5月10日"
+					}]
+				}, {
+					"name": "Juni",
+					"height": "200px",
+					"childs": [{
+						"name": "Telegram fällt zum ersten Mal innerhalb von 3 Tagen 100.000 Menschen um sein Ziel zu erreichen",
+						"wrap": true,
+						"endTime": "2018年6月1日"
+					}, {
+						"name": "Aktualisieren Sie die offizielle Website der zweiten Generation",
+						"endTime": "2018年6月10日"
+					}, {
+						"name": "Aktualisiertes Weißbuch der zweiten Ausgabe",
+						"endTime": "2018年6月20日"
+					}, {
+						"name": "Greifen Sie auf die erste Software zu: echo",
+						"endTime": "2018年6月21日"
+					}, {
+						"name": "Airdrops insgesamt 300.000 im Juni",
+						"endTime": "2018年6月23日"
+					}]
+				}]
+			}, {
+				"name": "2018 Q3~Q4",
+				"startTime": "2018年7月1日",
+				"endTime": "2018年12月31日",
+				"childs": [{
+					"name": "Juli",
+					"height": "100px",
+					"childs": [{
+						"name": "Airdrop belief sich im Juli auf 1 Million",
+						"endTime": "2018年7月1日"
+					}, {
+						"name": "MITC startet ersten Exchange",
+						"endTime": "2018年7月10日"
+					}]
+				}, {
+					"name": "August",
+					"height": "200px",
+					"childs": [{
+						"name": "Mehr als 3 MITC Online-Börsen",
+						"endTime": "2018年8月1日"
+					}, {
+						"name": "Zugriff auf die erste digable MITC-Hardware: MusicLens",
+						"endTime": "2018年8月10日"
+					}, {
+						"name": "Erste Musiker haben sich niedergelassen",
+						"endTime": "2018年8月20日"
+					}]
+				}, {
+					"name": "September",
+					"height": "100px",
+					"childs": [{
+						"name": "Erste Musik Unterstützung Online-Handel",
+						"endTime": "2018年9月1日"
+					}, {
+						"name": "Musicens \"Miner\" Produktion kann erworben werden",
+						"endTime": "2018年9月10日"
+					}]
+				}, {
+					"name": "Oktober",
+					"height": "200px",
+					"childs": [{
+						"name": "Musicens \"Miner\" versendet 100.000 Einheiten",
+						"endTime": "2018年10月1日"
+					}, {
+						"name": "Erzeuge das erste Lied im Wert von über einer Million Dollar",
+						"endTime": "2018年10月10日"
+					}, {
+						"name": "Der erste Stern ließ sich nieder",
+						"endTime": "2018年10月20日"
+					}]
+				}, {
+					"name": "November",
+					"height": "100px",
+					"childs": [{
+						"name": "Bis zu 100 Musiker",
+						"endTime": "2018年11月1日"
+					}, {
+						"name": "1.000 Lieder haben sich niedergelassen",
+						"endTime": "2018年11月11日"
+					}]
+				}, {
+					"name": "Dezember",
+					"height": "200px",
+					"childs": [{
+						"name": "Der erste internationale Schwergewichtsstern ließ sich nieder",
+						"endTime": "2018年12月1日"
+					}, {
+						"name": "Tausche Musiknutzer bis zu 50.000",
+						"endTime": "2018年12月10日"
+					}]
+				}]
+			}]
+		},
+		"team": {
+			"title": "Kernteam",
+			"des": "MusicLife wurxde von Singapurs gemeinnütziger Stiftung, der Music Life Foundation, ins Leben gerufen und wird gemeinsam von der japanischen Firma Music Life Inc. betrieben. Wir wollen ein offenes, faires und gesundes Musik-Ökosystem aufbauen. Das Kernteam besteht aus Mitgliedern der Vereinten Nationen, der Europäischen Union, IBM, Alibaba und anderen großen Organisationen oder Institutionen wie der Chinesischen Akademie der Wissenschaften und der Universität Tokio.",
+			"list": [{
+				"name": "Kaiming Liu",
+				"job": "Gründer und Vorsitzender",
+				"avatar": "1.png",
+				"des": "Verfasser der UN - Konventionüber Wirtschaft und Menschenrechte,Koordinator der Europäischen Kommission für die China - EU - Kooperationsstrategie,Direktor der Globalen Agenda des Weltwirtschaftsforums und Direktor der Menschenrechtskommission der Global Sustainable Telecommunication Industry Association(GeSI).Mit der Einführung des Social Responsibility Standards SA8000 in China genießt das Unternehmen einen sehr guten Ruf im globalenöffentlichen Interesse und in gemeinnützigen Sektoren.Er promovierte 1997 an der Universität Nanjing mit einem Doktortitel.MusicLife Foundation Sponsor und Vorsitzender.",
+				"hasMore": true,
+				"details": ["MusicLife Foundation Sponsor und Vorsitzender.Einer der Verfasser der UN - Konventionüber Wirtschaft und Menschenrechte, der EU - Kommissar für China - EU - Kooperationsstrategie und der Globalen Agenda des Weltwirtschaftsforums,  Mitglied der Menschenrechtskommission der Global Sustainable Telecommunication Industry Association(GeSI).International Supply Chain und Corporate Social Responsibility Spezialist, hat sich in den letzten 20 Jahren der soziologischen und juristischen Forschung gewidmet und hat viele Bücher veröffentlicht.Mit der Einführung des Social Responsibility Standards SA8000 in China genießt das Unternehmen einen sehr guten Ruf im globalenöffentlichen Interesse und in gemeinnützigen Sektoren.", "Dr.Liu hat 1997 an der Universität Nanjing promoviert.Im Jahr 2018 initiierte er die MusicLife Foundation und war Vorsitzender des Boards, von 2006 bis 2016 wurde Dr.Liu von der Europäischen Kommission zum Berater für chinesisch - europäische Kooperationsstrategie ernannt. Verantwortlich für die Bereiche Menschenrechte, Rechtsstaatlichkeit und gute Regierungsführung, Bewertung der Ergebnisse der China - EU - Zusammenarbeit in den letzten 10 Jahren und der Kooperationspläne für die nächsten 10 Jahre unter Beteiligung der Entwicklungshilfeagenturen der EU zur Unterstützung der chinesischen Verwaltung,Die Rechts - und Justizbehörden bauen in einer offenen und gerechten Gesellschaft ein großes rechtsstaatliches Projekt auf.Er war Gastwissenschaftler an der Universität von Nottingham in England im Jahr 2011 und Forscher am Dänischen Institut für Menschenrechte in Kopenhagen im Jahr 2009.", "Als anerkannter Experte in den Bereichen Rechtsstaatlichkeit, soziale Entwicklung und soziale Verantwortung von Unternehmen ist Dr.Liu Mitglied des Rechtsstaatlichkeitsausschusses des Global Agenda Council des World Economic Forum. Mitglied des Menschenrechtsausschusses der Global Sustainable Development Association, Mitglied des International Advisory Committee des Centerfor Business and Human Rights Resources.Er ist auch einer der Gründer des Mekong River Migration Network. Dies ist eine Nichtregierungsorganisation, die sich auf den Immigrationsschutz im Greater Mekong River Basin konzentriert.", "Dr.Liu nahm an den beratenden Aktivitäten von John Ruggie, Sonderbeauftragter des Generalsekretärs der Vereinten Nationen für Wirtschaft und Menschenrechte und der Harvard University, teil.  Es war der einzige Chinese, der an den beratenden Treffen in Bangkok, Berlin und Genf teilnahm.Er ist auch ein Mitglied des transformativen Denkers. Die Organisation wurde 2002 von der Deutschen Agentur für Internationale Zusammenarbeit und der Bertelsmann - Stiftung gegründet und umfasst mehr als 200 weltweit führende Persönlichkeiten aus Zivilgesellschaft, Politik und Wissenschaft.", "Dr.Liu wurde zu den Vereinten Nationen, der Weltbank, dem Europäischen Parlament, der Internationalen Arbeitsorganisation, dem Royal Institute of International Relations eingeladen, Er ist einer der Hauptredner im globalenöffentlichen und gemeinnützigen Bereich und Sprecher vieler internationaler Organisationen und akademischer Institutionen wie der Harvard University, der Yale University, der Tokyo University, der Peking University und der Chinese University of Hong Kong."]
+			}, {
+				"name": "Kevin Edwards - Yano",
+				"job": "CEO",
+				"avatar": "2.png",
+				"des": "Ein Senior Chartered Accountant in Großbritannien betreibt die Japan Financial Services Group seit mehr als 10 Jahren. In den ersten drei Jahren seiner Karriere arbeitete er in Großbritannien als eine 4-Milliarden-Wirtschaftsprüfungsgesellschaft, um Finanzinstitute zu prüfen, und wurde im Vereinigten Königreich als Wirtschaftsprüfer ausgebildet. Später wechselte er nach Japan und vertiefte sich in Japans Finanz- und Rechnungswesen, wo er über umfangreiche Erfahrung in der grenzüberschreitenden Finanzierung und im Management grenzüberschreitender Geschäfte verfügt. Als CEO von MusicLife ist er verantwortlich für das Management von MusicLife und Cross-Border-Finance.",
+				"hasMore": false
+			}, {
+				"name": "Shi Rui",
+				"job": "Chief Technology Officer",
+				"avatar": "3.png",
+				"des": "Master of Science in der Chinesischen Akademie der Wissenschaften, Bachelor der Tongji-Universität. Er war Senior Product Manager bei Taobao Advertising, Senior R & D Engineer der Alibaba Application Infrastructure Platform und DT Lab Data Engineer, verantwortlich für die Teilnahme am BP-System von Taobao Express und Diamond Booth, Chief Technical Officer von MusicLife und verantwortlich für die MusicLife Internet-Produktlinie und das eingebettete mobile Terminal. Die gesamte F & E und Gesamtarbeit des SDK-Systems und des eingebetteten Hardware-Systems.",
+				"hasMore": false
+			}, {
+				"name": "Yuko Inui",
+				"job": "Globaler Rechtsberater",
+				"avatar": "4.png",
+				"des": "Orricks Law Office Senior Rechtsberater,Mitglied der Energy Infrastructure Group,Mitglied der Japan Association of Environmental Protection Committees.Sowohl Studenten als auch Doktoranden haben ihren Abschluss an der Universität von Tokio und sind derzeit für Rechtsberatung und Fälle zu Projekten im Bereich erneuerbare Energien,Immobilientransaktionen und geistigem Eigentum zuständig.Arbeitete bei der Abteilung für Internationale Zusammenarbeit der Bank of Japan.Als Rechtsberater für MusicLife,zuständig für die weltweite rechtliche Compliance von MusicLife.",
+				"hasMore": false
+			}, {
+				"name": "Junyi LIU",
+				"job": "Music Technology Industrieberater",
+				"avatar": "5.png",
+				"des": "Undergraduate am Columbia College of Art in den Vereinigten Staaten ist spezialisiert auf Game Design und kleinere Netzwerk - Programmierung.Chairman der Kaiwei Culture Group,gründete 2014 die echo echo music App und erzielte mit 30 Millionen Nutzern ein rasantes Wachstum.Im Jahr 2016 wurde er als einer der 30 Unternehmer von Forbes Asia unter 30 Jahren ausgewählt.Im Jahr 2017 führte das Team \"Lotto\" - den Trend des Zuhörens der Brille.Als MusicLife Berater für Internetindustrie ist er verantwortlich für die Verbindung von Musikindustrie - Ressourcen.",
+				"hasMore": false
+			}, {
+				"name": "Yijun HONG",
+				"job": "Blockchain-Technologieberater",
+				"avatar": "6.png",
+				"des": "Bachelor of Communication and Technology,Universität Shanghai,Chief Technology Officer der Qiwei Culture Group.Er hat in der Chinesischen Akademie der Wissenschaften,IBM,TNC gedient und war als technischer Direktor tätig.Er verfügtüber mehr als 15 Jahre Entwicklungs - und Managementerfahrung und ist in einer Reihe von mittleren und großen Projekten involviert und verantwortlich.Langfristig verantwortlich für große Video - und Kommunikationsprojekte,gut für Clusterarchitektur und Sicherheitsverteidigung,gründliche Recherche zu Inhaltsempfehlungen und Algorithmen - Mining.Serviert als technischer Berater für MusicLife im Internet.",
+				"hasMore": false
+			}],
+			"more": {
+				"readMore": "lesen sie mehr",
+				"title": "MusicLife Das Kernteam eingeführt"
+			}
+		},
+		"investor": {
+			"title": "Investitionsagentur"
+		},
+		"partner": {
+			"title": "Partner"
+		},
+		"partnerInvestor": {
+			"title": "Partnerinvestitionsagentur"
+		},
+		"activity": {
+			"title": "Aktivitätsvorteile",
+			"name": {
+				"begin": "Aktuelle Aktivitäten",
+				"future": "Bevorstehende Veranstaltungen",
+				"old": "Frühere Aktivitäten"
+			},
+			"list": [{
+					"type": 0,
+					"begin": 0,
+					"name": "activity-tg",
+					"img": "tg.png"
+				},
+				{
+					"type": 1,
+					"begin": 1,
+					"name": "activity-lens",
+					"img": "lens.png"
+				},
+				{
+					"type": 0,
+					"begin": 2,
+					"name": "activity-echo",
+					"img": "echo.png"
+				}
+			]
+		},
+		"user": {
+			"title": "MitCoin ist eine von MusicLife herausgegebene digitale Währung, die in der Musikökologie verwendet werden kann ",
+			"readMore": "Klicken Sie hier, um mehr zu erfahren",
+			"des": "Die weltweit erste Brille, die für den Bergbau und exklusive Unterstützung für MITC gesungen werden kann! Jetzt Hand in Hand mit MusicLife, um einen 100% Cashback 0 Yuan Coupon zu starten",
+			"coin": "Mein MitCoin",
+			"coinTips": "(Lade einen Freund ein, 30 zu aktivieren)"
+		},
+		"detail": {
+			"tips": "Gesamt MITC",
+			"give": "Verfügbare MITC-Nummern",
+			"giveBtn": "Rückzug",
+			"title": "Einnahmen und Ausgaben",
+			"infoList": [{
+					"type": 1,
+					"msg": "Registrierungsgeschenk"
+				},
+				{
+					"type": 2,
+					"msg": "Laden Sie Freunde zum Verschenken ein"
+				},
+				{
+					"type": 3,
+					"msg": "ECHO-Verbrauch"
+				},
+				{
+					"type": 4,
+					"msg": "Gruppe anmelden, um Geld zu senden"
+				},
+				{
+					"type": 5,
+					"msg": "Münze"
+				},
+				{
+					"type": 6,
+					"msg": "Gruppenbelohnungen"
+				}
+			],
+			"model": {
+				"title": "MitCoin (MITC) Widerrufsbelehrung",
+				"des": "MITC wird basierend auf Ethereums ERC20-Token vor der MusicLife-Hauptkette ausgegeben, und Sie können Ihre MITC-Gelder in die Ethereum ERC20-Wallet abheben. Die erste APP, die den MITC-Entzug unterstützt, ist das Echo-Echo. Mobile Market Search echo Echo  herunterladen und finden Sie Mein Mitt  auf der Meine Seite für den Rückzug"
+			}
+		},
+		"activityLens": {
+			"go": "Aktivitäten im Gange! Klicken Sie hier, um beizutreten",
+			"list": [{
+					"type": 0,
+					"name": "Grundregel",
+					"des": "Verwenden Sie den 0 - Yuan - Gutschein , um jede Art von Lotto-Brille zu kaufen, können Sie 100% Geld zurück bekommen! Jeder Benutzer kann das Kaufprivileg von 0 Yuan nur einmal verwenden und der Gutschein läuft in 24 Stunden ab."
+				},
+				{
+					"type": 1,
+					"name": "Einladende Geschenke",
+					"des": "Jedes Mal, wenn Sie einen neuen Nutzer zum Kauf einladen, erhalten Sie einen zusätzlichen Cashback von 5% und Sie können mehr als 1000% Cashback erhalten!",
+					"btn": "Einladungslink kopieren"
+				},
+				{
+					"type": 0,
+					"name": "Cashback-Formular",
+					"des": "Der Geldbetrag wird dem Benutzer jeden Monat mit der gleichen Menge MitCoin (MITC) zurückerstattet. MITC ist eine digitale Währung, die vom Musiksystem MusicLife herausgegeben wird und direkt an der Börse in eine gesetzliche Währung wie den US-Dollar gehandelt werden kann. Der Cashback ist in 10 Perioden unterteilt, und jede Periode gibt 10% des Betrags an Ihr MITC-Konto zurück, das direkt abgehoben werden kann. Es wird zum ersten Mal nach einem Monat nach dem Kauf zurückgegeben, dann wird es einmal im Monat zurückgegeben und so weiter."
+				},
+				{
+					"type": 0,
+					"name": "Andere Regeln",
+					"des": "Die Stornierung von Bestellungen wird nach dem Kauf eines Produkts mit dem Gutschein 0 - Dollar - Kauf nicht unterstützt. Der Cashback-MITC-Betrag wird zum Echtzeit-Marktpreis des digitalen Geldumtauschs zurückgezahlt, und wenn Sie Geld abheben, wird das MITC in Echtzeit zum Marktpreis abgerechnet."
+				},
+				{
+					"type": 0,
+					"name": "Aktivitätsfrist",
+					"des": "Nachdem der Verkauf von MusicLens Lotto Musical Glasses 0 RMB Purchase 300.000 Einheiten erreicht hat, endet die Veranstaltung automatisch und abgelaufene Coupons verfallen automatisch."
+				}
+			],
+			"r-amount": "Mein Cashback-Betrag",
+			"r-num": "Meine Anzahl eingeladener Freunde",
+			"r-date": "Mein Rückgabedatum",
+			"r-money": "Die erste Periode ￥{money} ({date})",
+			"r-invite": "Mein Einladungslink",
+			"r-cppy": "Adresse kopieren",
+			"r-copy-msg": "Erfolgreiche Kopie"
+		},
+		"phone": "+49"
+	}
+}

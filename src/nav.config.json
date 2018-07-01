@@ -1,0 +1,71 @@
+{
+  "pc": [
+    {
+      "name": "home",
+      "path": "/",
+      "component": "Home"
+    },
+    {
+      "name": "login",
+      "path": "/login",
+      "component": "Login"
+    },
+    {
+      "name": "user",
+      "path": "/user",
+      "component": "User"
+    },
+    {
+      "name": "detail",
+      "path": "/detail",
+      "component": "Detail"
+    },
+    {
+      "name": "activity-lens",
+      "path": "/activity-lens",
+      "component": "activity-lens"
+    },
+    {
+      "name": "lens",
+      "path": "/lens",
+      "component": "Lens"
+    },
+    {
+      "name": "wechatshare",
+      "path": "/wechatshare",
+      "component": "wechatShare"
+    }
+  ],
+  "mobile": [
+    {
+      "name": "wechatindex-m",
+      "path": "/",
+      "component": "wechatIndex"
+    },
+    {
+      "name": "login-m",
+      "path": "/login",
+      "component": "Login"
+    },
+    {
+      "name": "wechatuser-m",
+      "path": "/wechatuser",
+      "component": "weChatUser"
+    },
+    {
+      "name": "wechatinfo-m",
+      "path": "/wechatinfo",
+      "component": "wechatInfo"
+    },
+    {
+      "name": "wechatshare-m",
+      "path": "/wechatshare",
+      "component": "wechatShare"
+    },
+    {
+      "name": "user-m",
+      "path": "/user",
+      "component": "User"
+    }
+  ]
+}
